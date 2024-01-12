@@ -2,7 +2,8 @@
 
 ## Strengths:
 
-### Cryptographically Secure Randomness: Employs secrets.SystemRandom().shuffle for generating more unpredictable keys, enhancing security.
+### Cryptographically Secure Randomness:
+Employs secrets.SystemRandom().shuffle for generating more unpredictable keys, enhancing security.
 ### Improved Key Management: 
 Handles file-related errors gracefully, providing informative messages.
 Generates a new key if the file is missing.
